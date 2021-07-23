@@ -6,7 +6,11 @@
 - [Micronaut Guides](https://guides.micronaut.io/index.html)
 ---
 
-## Feature http-client documentation
+## Feature jdbc-hikari documentation
 
-- [Micronaut HTTP Client documentation](https://docs.micronaut.io/latest/guide/index.html#httpClient)
+- [Micronaut Hikari JDBC Connection Pool documentation](https://micronaut-projects.github.io/micronaut-sql/latest/guide/index.html#jdbc)
+
+## Feature testcontainers documentation
+
+- [https://www.testcontainers.org/](https://www.testcontainers.org/)
 
